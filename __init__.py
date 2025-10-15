@@ -1,4 +1,1 @@
-from .core import contents, where
-
-__all__ = ["contents", "where"]
-__version__ = "2025.10.05"
+# Copyright Jonathan Hartley 2013. BSD 3-Clause license, see LICENSE file.
